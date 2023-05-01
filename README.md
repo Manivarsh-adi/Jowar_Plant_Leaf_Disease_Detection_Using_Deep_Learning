@@ -20,3 +20,7 @@ saved model can used for predictions
 ## Observations
  
  Model failed on testing data on production data attaining 52% accuracy
+
+## Published paper
+
+https://ieeexplore.ieee.org/abstract/document/9596535

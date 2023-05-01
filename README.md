@@ -16,3 +16,7 @@ Folder consist of All ipynb files trainng the model files
 
 saved model can used for predictions
 
+
+## Observations
+ 
+ Model failed on testing data on production data attaining 52% accuracy
